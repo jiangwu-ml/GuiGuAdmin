@@ -23,6 +23,7 @@
     "echarts": "^5.4.2",
     "echarts-liquidfill": "^3.1.0",
     "element-plus": "^2.3.3",
+    "husky": "^8.0.0",
     "lodash": "^4.17.21",
     "moment": "^2.29.4",
     "nprogress": "^0.2.0",
@@ -44,7 +45,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-vue": "^9.10.0",
-    "husky": "^8.0.0",
     "mockjs": "^1.1.0",
     "postcss": "^8.4.21",
     "postcss-html": "^1.5.0",
@@ -65,6 +65,7 @@
     "vite": "^4.2.0",
     "vite-plugin-mock": "^2.9.6",
     "vite-plugin-svg-icons": "^2.0.1",
-    "vue-tsc": "^1.2.0"
+    "vue-tsc": "^1.2.0",
+    "husky": "^8.0.0"
   }
 }
