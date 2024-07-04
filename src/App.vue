@@ -2,7 +2,7 @@
 
 <template>
   <div class="box">
-    <h1>TEST</h1>
+    <h1>TEST11</h1>
   </div>
   <HelloWorld msg="Vite + Vue" />
 </template>
